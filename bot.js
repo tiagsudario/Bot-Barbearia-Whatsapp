@@ -37,13 +37,13 @@ client.on('message', async msg => {
     // MENU
     if (texto === 'menu' || texto === 'oi') {
         estados[numero] = null;
-        msg.reply(`💈 Barbearia Style
+        msg.reply(`💈 Ola tudo bem? Seja bem vindo à nossa Barbearia Style
 
 1 - Serviços
 2 - Preços
 3 - Agendar
 4 - Localização
-5 - Atendente`);
+5 - Falar com Atendente`);
     }
 
     // SERVIÇOS
@@ -74,7 +74,7 @@ Combo: R$45`);
         if (estado.etapa === 'nome') {
             estado.nome = msg.body;
             estado.etapa = 'servico';
-            msg.reply('Qual serviço? (corte/barba/combo)');
+            msg.reply('Qual serviço o senhor gostaria ? (corte/barba/combo)');
         }
 
         else if (estado.etapa === 'servico') {

@@ -1,2 +1,3 @@
-2026/04/20-19:10:40.747 2118 Creating DB C:\Users\Usuario\bot-barbearia\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
-2026/04/20-19:10:41.128 2118 Reusing MANIFEST C:\Users\Usuario\bot-barbearia\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/04/21-12:27:54.896 14c0 Reusing MANIFEST C:\Users\Usuario\bot-barbearia\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/04/21-12:27:55.312 14c0 Recovering log #3
+2026/04/21-12:27:55.314 14c0 Reusing old log C:\Users\Usuario\bot-barbearia\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 

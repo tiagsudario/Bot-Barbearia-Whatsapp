@@ -14,5 +14,13 @@
     "qrcode-terminal": "^0.12.0",
     "sqlite3": "^6.0.1",
     "whatsapp-web.js": "^1.34.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagsudario/Bot-Barbearia-Whatsapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tiagsudario/Bot-Barbearia-Whatsapp/issues"
+  },
+  "homepage": "https://github.com/tiagsudario/Bot-Barbearia-Whatsapp#readme"
 }
